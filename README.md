@@ -1,0 +1,1 @@
+Projeto da disciplina de redes neurais, onde deviamos usar a rede neural LSTM para fazer um estudo com seus hiperparametros para o problema de previsão de valor dos bitcoins. Ao longo do notebook, vários testes foram feitos explorando ao máximo os parametros.
